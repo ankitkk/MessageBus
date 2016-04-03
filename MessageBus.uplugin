@@ -5,8 +5,8 @@
 	"FriendlyName": "MessageBus",
 	"Description": "",
 	"Category": "Messaging",
-	"CreatedBy": "",
-	"CreatedByURL": "",
+	"CreatedBy": "Ankit Khare",
+	"CreatedByURL": "https://github.com/ankitkk/MessageBus",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
@@ -17,7 +17,7 @@
 	"Modules": [
 		{
 			"Name": "MessageBus",
-			"Type": "Developer",
+			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	]
